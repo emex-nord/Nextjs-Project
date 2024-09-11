@@ -11,7 +11,7 @@ import (
 
 func main() {
     /* This would match routes like the following:
-       /sum/3/5
+       /sum/3/5c.Data["operation"] = operation
        /product/6/23
        ...
     */
